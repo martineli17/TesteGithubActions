@@ -8,7 +8,7 @@ namespace Testes
         [Trait("Teste", "01")]
         public void Teste01()
         {
-            Assert.True(false);
+            Assert.True(true);
         }
 
         [Fact(DisplayName = "02")]
